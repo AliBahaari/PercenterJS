@@ -6,7 +6,7 @@
 
 Just link PercenterJS to your project :
 ```
-<script src="PercenterJS - 1.0.0.js"></script>
+<script src="PercenterJS - 1.0.0.min.js"></script>
 ```
 
 ## Initializing
